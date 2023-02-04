@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">basketball-score</string>
+    <string name="local">Local</string>
+    <string name="visitante">Visitante</string>
+    <string name="minus_one">-1</string>
+    <string name="plus_one">+1</string>
+    <string name="plus_two">+2</string>
+    <string name="zero">0</string>
+    <string name="local_vs_visitor">Local - Visitante</string>
+    <string name="local_won">Gano Local!</string>
+    <string name="visitor_won">Gano Visitante!</string>
+    <string name="local_visitor_score_format" translatable="false">%1$d - %2$d</string>
+    <string name="it_was_a_tie">Es un empate 😕</string>
+</resources>
